@@ -1,0 +1,6 @@
+beautifulsoup4==4.13.4
+chromadb==1.0.15
+gradio==5.35.0
+llama_index==0.12.46
+modelscope==1.26.0
+Requests==2.32.4
