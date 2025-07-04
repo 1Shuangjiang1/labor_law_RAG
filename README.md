@@ -6,7 +6,7 @@
 
 This is a simple Retrieval-Augmented Generation (RAG) demo designed for labor law question-answering. It combines document retrieval, embedding, and large language models (LLMs) to answer user questions via a Gradio web interface.
 
-👉 For detailed technical explanation and insights, please refer to my blog: [Your Blog Link Here](https://yourblog.example.com)
+👉 For detailed technical explanation and insights, please refer to my blog: [Your Blog Link Here](https://1shuangjiang1.github.io/p/%E5%9F%BA%E4%BA%8Ellamaindex%E7%9A%84%E5%8A%B3%E5%8A%A8%E6%B3%95rag%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F/)
 
 ---
 
