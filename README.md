@@ -1,7 +1,7 @@
 
 
 
-````markdown
+
 # 📚 RAG Demo for Labor Law QA
 
 This is a simple Retrieval-Augmented Generation (RAG) demo designed for labor law question-answering. It combines document retrieval, embedding, and large language models (LLMs) to answer user questions via a Gradio web interface.
