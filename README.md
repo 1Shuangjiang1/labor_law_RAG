@@ -1,5 +1,5 @@
 
----
+
 
 ````markdown
 # 📚 RAG Demo for Labor Law QA
@@ -20,7 +20,7 @@ This is a simple Retrieval-Augmented Generation (RAG) demo designed for labor la
 ├── requirements.txt  # Python dependencies
 ````
 
----
+
 
 ## 🚀 How to Use
 
